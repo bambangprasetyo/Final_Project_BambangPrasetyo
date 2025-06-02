@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "989941234558",
+    "firebase_url": "https://biometric-4de86-default-rtdb.firebaseio.com",
+    "project_id": "biometric-4de86",
+    "storage_bucket": "biometric-4de86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989941234558:android:2de7a0b56c9d81300f912f",
+        "android_client_info": {
+          "package_name": "com.example.h8_fli_biometric_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM7GxkLztmmppNL2Wo0IqaRewVISOTOX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
